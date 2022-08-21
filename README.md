@@ -1,4 +1,4 @@
-# Job Applications System - KMC ![This is an image](/KMC/images/Small_Logo.png)
+# Job Applications System - KMC ![This is an image](/KMC/images/smallIcon.png)
 
 Karachi Metropolitan Corporation (KMC) posted job openings for multiple openings in BPS-01 to BPS-04.
 
